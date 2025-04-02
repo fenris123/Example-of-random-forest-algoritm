@@ -33,6 +33,7 @@ Se limpiaron los datos de esios para quedarse solo con la columna valor, organiz
 La estructura del .csv final sigue esta organizacion:
 fecha;indicativo;nombre;provincia;altitud;tmed;prec;tmin;horatmin;tmax;horatmax;dir;velmedia;racha;horaracha;sol;presMax;presMin;hrMedia;hrMax;hrMin;valor
 
+Adjuntamos el archivo con los datos empleados si no se quiere realizar ese trabajo.
 
 
 
