@@ -26,7 +26,7 @@ https://github.com/fenris123/USING-AEMET-API-TO-OBTAIN-WEATHER-DATA-FROM-SPANISH
 Se descargaron los datos del mercado electrico diario para españa desde aqui.
 https://www.esios.ree.es/es/analisis/600?vis=1&start_date=01-01-2022T00%3A00&end_date=31-12-2024T23%3A55&geoids=3&compare_start_date=31-12-2021T00%3A00&groupby=hour
 
-En ambos casos, datos desde 1l 1/1/2022 hasta el 31/1/2024
+En ambos casos, datos desde el 1/1/2022 hasta el 31/1/2024
 
 Se limpiaron los datos de esios para quedarse solo con la columna valor, organizada en forma de si/no en funcion de si ese dia el precio caia hasta cero o menos y la fecha, y se hizo un merge con los datos de aemet.
 
