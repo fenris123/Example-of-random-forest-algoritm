@@ -68,7 +68,9 @@ FUTUROS DESARROLLOS
 
 El script cumple con su cometido, que era realizar un analisis de random forest sobre unos datos. En este sentido, lo consideramos completado.
 Es posible que en el futuro intentemos practicar algunas tecnicas para mejorar la precision en la prediccion de los resultados de la clase menos representada en los datos de entrenamiento.
-No obstante esto no es seguro, y no hay una fecha prevista para ello.
+Para abordar el otro problema, si se quisiera mejorar los datos iniciales y rellenar los datos que estan en blanco o NaN,se podria plantear el uso de un predictor de series temporales, por ejemplo el modelo ARIMA de statsmodels.
+
+No obstante no es seguro que lo hagamos, y no hay una fecha prevista para ello.
 Puede que simplemente optemos por probar otro tipo de algoritmo mas adecuado a este tipo de datos.
 
 
